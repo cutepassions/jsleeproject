@@ -1,0 +1,1 @@
+create table recommend (num int(20), id varchar(20));
