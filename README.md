@@ -17,6 +17,8 @@
 - 3개월 (2021.09 ~ 2021.12)
 ### 완성된 사이트
 - https://www.jbu.co.kr/~jsleeproject
+![image](https://user-images.githubusercontent.com/105566077/201997834-c6420b09-902c-44b4-8e88-d9b662d9d8be.png)
+
 ### 참고 자료
 - https://themewagon.com/themes/free-bootstrap-4-html5-web-developer-portfolio-website-template-satner/ (웹 사이트 템플릿)
 ## 겪은 어려움
